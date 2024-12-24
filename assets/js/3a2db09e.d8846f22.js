@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhwahii_tw=self.webpackChunkhwahii_tw||[]).push([[121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"\u8499\u7279\u68ad\u5229","permalink":"/blog/tags/montessori","description":"\u8499\u7279\u68ad\u5229","count":1}]}')}}]);

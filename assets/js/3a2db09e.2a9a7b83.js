@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhwahii_tw=self.webpackChunkhwahii_tw||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"\u8499\u7279\u68ad\u5229","permalink":"/blog/tags/montessori","description":"\u8499\u7279\u68ad\u5229","count":1},{"label":"\u89aa\u5b50\u6559\u990a","permalink":"/blog/tags/parenting","description":"\u89aa\u5b50\u6559\u990a","count":1}]}')}}]);
